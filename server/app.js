@@ -1,0 +1,1 @@
+Stripe.connect('sk_live_vb7uiw3iuk9XiDpKY', 'pk_live_K6eoaP93bhbbAbXGt');
